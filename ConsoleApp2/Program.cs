@@ -17,7 +17,10 @@ internal class Program
 
                 //Mostrar todas as musicas da api
                 //LinqFiltro.FiltrarTodosOsGeneros(musicas);
-                LinqFiltro.FiltrarMusicasEmCsharp(musicas, "aG");
+
+                //Filtrar musicas em uma tonalidade
+                //LinqFiltro.FiltrarMusicasEmCsharp(musicas, "G");
+
                 //Exibir ficha técnica de uma musica
                 //musicas[13].ExibirFichaTecnica();
 
